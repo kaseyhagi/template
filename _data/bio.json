@@ -18,28 +18,19 @@
       {
         "network": "github",
         "username": "kaseyhagi",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/kaseyhagi.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "kaseyhajima",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "kaseyhajima",
-        "url": "http://instagram.com/changeme"
+        "username": "kaseyhagi",
+        "url": "https://www.linkedin.com/in/kasey-hagi-839291124
+"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -51,7 +42,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
