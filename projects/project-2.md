@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/android.png
 title: Android App 
-permalink: projects/vacay
+permalink: projects/androidapp
 date: 2015
 labels:
   - Java
