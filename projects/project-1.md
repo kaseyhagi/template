@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/matrixcalc.png
+image: images/matrixcalc.jpg
 title: Matrix Calculator
 permalink: projects/matrixcalculator
 date: 2015
