@@ -63,12 +63,22 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Japiolani Community College, Honolulu, HI",
+      "area": "Natural Sciences, Pre-Engineering",
+      "studyType": "A.S.",
+      "startDate": "2013-09-01",
+      "endDate": "2015-12-20",
+      "gpa": "3.44",
+      "courses": [
+      ]
+    }v
   ],
   "work": [
     
