@@ -30,12 +30,17 @@
   },
   "interests": [
     {
-      "name": "software",
+      "name": "Software",
       "keywords": [
       ]
     },
     {
-      "name": "object-oriented programming",
+      "name": "Mathematics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Physics",
       "keywords": [
       ]
     }
@@ -54,7 +59,11 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS"
+        "MacOS",
+        "Eclipse",
+        "Android Studio",
+        ""
+        
       ]
     }
   ],
