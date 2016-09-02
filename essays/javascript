@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Don't Forget to Call the Function 
+title: void thisIsNotAFunctionInJavaScript();
 date: 2016-08-28
 labels:
   - Software Engineering
