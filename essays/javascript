@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: void thisIsNotAFunctionInJavaScript();
+title: function AintGotNoType();
 date: 2016-08-28
 labels:
   - Software Engineering
   - Learning
   - JavaScript
 ---
-function AintGotNoType
+
+Why are JavaScript variables not type sensitive?
