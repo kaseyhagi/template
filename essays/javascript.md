@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Don't Forget to Call the Function
-date: 2016-08-28
+date: 2016-09-01
 labels:
   - Software Engineering
   - Learning
