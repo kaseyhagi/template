@@ -4,7 +4,7 @@ type: project
 image: images/android1.JPG
 title: Android App 
 permalink: projects/androidapp
-date: 2015
+date: 2016-07
 labels:
   - Java
   - eclipse
