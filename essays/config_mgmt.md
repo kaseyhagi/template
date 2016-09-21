@@ -1,6 +1,4 @@
-
 ---
-
 layout: essay
 type: essay
 title: Configuration Management
