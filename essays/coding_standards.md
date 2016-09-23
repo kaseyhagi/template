@@ -3,7 +3,7 @@
 layout: essay
 type: essay
 title: Simplicity Favors Regularity
-date: 2016-09-15
+date: 2016-09-22
 labels:
   - Coding Standards
   - ESLint
