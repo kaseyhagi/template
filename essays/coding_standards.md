@@ -20,7 +20,7 @@ In software engineering, collaboration plays a huge role. It is impossible for o
 
 
 
-Coding standards guidelines for a specific programming language that will dictate the layout and style of the code. Some may naturally write code in different styles and this could make it harder to see the bigger picture. Not only will following coding standards help the team, it will help yourself. When you write your code organized and well-documented, you will have an easier time debugging and analyzing it for any problems later. 
+Coding standards are guidelines for a specific programming language that will dictate the layout and style of the code. Some may naturally write code in different styles and this could make it harder to see the bigger picture. Not only will following coding standards help the team, it will help yourself. When you write your code organized and well-documented, you will have an easier time debugging and analyzing it for any problems later. 
 
 <img class="ui medium right floated rounded image" src="../images/meme1.jpg">
 
@@ -39,13 +39,14 @@ function something()
 }
 ```
 
-and some chose to have no consistency. However, something as minute as where to put the opening curly brace is something that must be decided for the team. Slight changes like these will slow down the collaboration process.
+and some chose to have no consistency whatsoever. However, something as minute as where to put the opening curly brace is something that must be decided for the team. Slight changes like these will slow down the collaboration process.
 
 <img src="../images/eslint1.png">
 
 ## Training
 
+<img src="../images/eslint1.png">
 
 ESLint is a java utility for recognizing patterns that don't adhere to coding standards. Integrating ESLint into IntelliJ is great training for writing standardized code. ESLint will have your code looking neat and understandable as well as catch some errors before you compile. You will no longer have to stare at your code for ten minutes to find where you forgot that semicolon, ESLint will let you know before you're even done writing. Having ESLint integrated into IntelliJ will train you to write code better, it will become natural to write code that conforms to the standard. 
 
-<img src="../images/meme1.jpg">
+I noticed that ESLint pointed out mistakes before I knew that I made them. It also pointed out some syntax errors that I probably wouldn't realize until I finished and tried to run the code. JavaScript is my third programming language and sometimes, I still get the syntax mixed up. ESLint is a great tool for managing syntax of a specific language. 
