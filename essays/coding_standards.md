@@ -16,6 +16,6 @@ In software engineering, adhering to coding standards is very important. Coding 
 In my experience, I have noticed working with other students who write little to no documentation and it takes a while longer just to understand the code they've written. Sometimes I even will take the time out to revise their code in a way that is easier to understand. I imagine
 
 ## Training
-<img class="ui medium center floated rounded image" src="../images/eslint1.png">
+<img src="../images/eslint1.png">
 ESLint is a java utility for recognizing patterns that don't adhere to coding standards. Integrating ESLint into IntelliJ is great training for applying coding standards. ESLint will have your code looking neat and understandable as well as catch some errors before you compile
-<img class="ui medium center floated rounded image" src="../images/meme1.jpg">
+<img src="../images/meme1.jpg">
