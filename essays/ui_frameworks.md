@@ -24,9 +24,11 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
 <img class= "ui middle aligned small image" src="../images/semantic_profile.png">
 <span>
     For example, the HTML to format the picture to the left is just
+    
     ```
     <img class= "ui middle aligned small image" src="../images/photo.png">
     ```
+    
 </span>
 
 <img class= "ui middle aligned right floated small circular image" src="../images/semantic_profile.png">
