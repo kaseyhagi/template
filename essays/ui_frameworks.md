@@ -21,15 +21,15 @@ WHY NOT USE RAW HTML & CSS?
 ## Semantic UI
 Semantic UI has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. 
 
-<img class= "ui middle aligned small image" src="../images/semantic_profile.png">
-<span>
+<img class= "ui left floated small image" src="../images/semantic_profile.png">
+
     For example, the HTML to format the picture to the left is just
     
     ```
     <img class= "ui middle aligned small image" src="../images/photo.png">
     ```
     
-</span>
+
 
 <img class= "ui bottom aligned small circular image" src="../images/semantic_profile.png">
 <span>For example, if you 
