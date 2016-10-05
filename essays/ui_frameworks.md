@@ -24,6 +24,9 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
 <img class= "ui middle aligned small circular image" src="../images/semantic_profile.png">
 <span>For example, if you </span>
 
+<img class= "ui middle aligned right small circular image" src="../images/semantic_profile.png">
+<span>For example, if you </span>
+
 A fun way to exercise using frameworks is by picking a website and replicating it using Semantic UI. 
 ## UI Frameworks for an Engineer
 SOFFTWARE ENGINEERING BENEFITS:;
