@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: UI Frameworks
-date: 2016-08-28
+date: 2016-10-05
 labels:
   - Software Engineering
   - Learning
@@ -20,6 +20,7 @@ WHY NOT USE RAW HTML & CSS?
 -SEMANTIC UI MAKES THINGS EASY AND PRETTY
 ## Semantic UI
 Semantic UI has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. 
+
 <img class= "ui middle aligned small circular image" src="../images/semantic_profile.png">
 <span>For example, if you </span>
 
