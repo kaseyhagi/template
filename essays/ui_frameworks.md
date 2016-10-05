@@ -26,7 +26,8 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
     For example, the HTML to format the picture to the left is just
     
     ```
-    <img class= "ui middle aligned small image" src="../images/photo.png">
+    <img class= "ui middle aligned small image" 
+        src="../images/photo.png">
     ```
     
 
