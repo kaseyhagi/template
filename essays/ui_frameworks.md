@@ -21,22 +21,9 @@ WHY NOT USE RAW HTML & CSS?
 ## Semantic UI
 Semantic UI has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. 
 
-<img class= "ui small floated image" src="../images/semantic_profile.png">
-
-```
-<img class= "ui middle aligned small image" 
-        src="../images/photo.png">
-}
-```
-
 
 <img class= "ui bottom aligned small circular image" src="../images/semantic_profile.png">
-<span>For example, if you 
-
-    ```
-    <img class= "ui bottom aligned small circular image" src="../images/photo.png">
-    ```
-    
+<span>For example, the image to the left is originally a square. To make this round, I just added the class "ui small circular image". With no additional CSS, the image is formatted to size small and appears circular.
  </span>
 
 
