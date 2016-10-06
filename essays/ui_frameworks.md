@@ -21,7 +21,7 @@ User interface is one of the most important things when developing Web applicati
   <button class="ui button">Search</button>
 </div>
  
-Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI, which has all the styles defined for you. With Semantic UI, using about just as much HTML would bring your site into this century.
+Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI, which has all the styles defined for you. With Semantic UI, using about just as much HTML could bring your site into this century.
 
 <!--WHAT ARE UI FRAMEWORKS? -->
 <!--WHY DO WE USE THEM? -->
@@ -35,7 +35,7 @@ Here are two examples of a search bar. Can you tell which is made with Semantic 
 
 <img class="ui fluid image" src="../images/semantic.JPG">
 
-A fun frameworks exercise is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. I gained a lot of experience from creating things that all "real" websites have, like some menu or title bar at the top and a footer at the bottom of the page. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage. You don't have to recreate the entire site, just choose some portions to get started. I decided to recreate the menu bar, the footer, and a few of the body elements. 
+A fun frameworks exercise is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. I gained a lot of experience from creating things that all "real" websites have, like some menu or title bar at the top and a footer at the bottom of the page. Doing this exercise could also give you some neat design ideas for creating sites of your own. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.  
 
 <div class="ui one column grid">
   <div class="column">
@@ -45,7 +45,7 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-    <p>The original photo is modified a little to include the footer at the bottom of the page in the screenshot. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
+    <p>You don't have to recreate the entire site, just choose some portions to get started. I decided to recreate the menu bar, the footer, and a few of the body elements. The original photo is modified a little to include the footer at the bottom of the page in the screenshot. You may notice some minor differences in my version compared to the original but it's pretty close. You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
 </p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
