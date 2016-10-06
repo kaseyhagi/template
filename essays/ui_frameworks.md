@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Software Engineer's Toolkit
+title: The Software Engineer of Today
 date: 2016-10-05
 labels:
   - Software Engineering
@@ -35,7 +35,7 @@ Here are two examples of a search bar. Can you tell which is made with Semantic 
 
 <img class="ui fluid image" src="../images/semantic.JPG">
 
-A fun frameworks exercises is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and often a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
+A fun frameworks exercise is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. I gained a lot of experience from creating things that all "real" websites have, like some menu or title bar at the top and a footer at the bottom of the page. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage. You don't have to recreate the entire site, just choose some portions to get started. I decided to recreate the menu bar, the footer, and a few of the body elements. 
 <!--<img class="ui medium floated image"src="../images/arduino_before">-->
 <!--<img class="ui medium floated image"src="../images/arduino_after">-->
 
@@ -65,4 +65,4 @@ If I were told to replicate the same sight using only raw HTML and CSS in the sa
 
 <!--SOFFTWARE ENGINEERING BENEFITS:;-->
 <!--- BE ABLE TO QUICKLY DEVELOP BEAUTIFUL WEB APPLICATIONS -->
-As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed quite an improvement in productivity when using Semantic UI.
+As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed quite an improvement in productivity when using Semantic UI. 
