@@ -16,7 +16,7 @@ Semantic UI makes implementing the UI much less painless and much nicer to look 
 
 <input type="text" placeholder="Search..."><button type="button">Search</button>
 
-Here's your basic HTML input with a button. Looks quite outdated, doesn't it. We need to keep up with the rest of the web, and that doesn't mean adding modifications to your stylesheet. It means using a framework like Semantic UI. 
+Here's your basic HTML input with a button. Looks quite outdated, doesn't it. We need to keep up with the rest of the web, and that doesn't mean adding modifications to your stylesheet. It means using a framework like Semantic UI. Using about just as much HTML would bring your site into this century.
 <div class="ui action input">
   <input type="text" placeholder="Search...">
   <button class="ui button">Search</button>
@@ -31,19 +31,9 @@ Here's your basic HTML input with a button. Looks quite outdated, doesn't it. We
 
 ## Semantic UI
 
-<a href="http://semantic-ui.com/">Semantic UI</a> has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. 
-
-
-<img class= "ui small floated circular image" src="../images/semantic_profile.png">
-
-For example, the image to the left is originally a square. To make this round, I just added the class "ui small circular image". With no additional CSS, the image is formatted to size small and appears circular.
-But wait, there's more. There's a ton of other ways Semantic UI will make your life easier. I personally found it terribly painful to design a layout in raw HTML/CSS. However using Semantic UI, 
-
-Below are examples of some elements or views that can be done using Semantic UI. Notice the style and how they looks as if they were developed in 2016 and not 1995.
+<a href="http://semantic-ui.com/">Semantic UI</a> has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. Below are examples of some elements or views that can be done using Semantic UI. Notice the style and how they looks as if they were developed in 2016 and not 1995.
 
 <img class="ui fluid image" src="../images/semantic.JPG">
-
-
 
 A fun frameworks exercises is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and often a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
 <!--<img class="ui medium floated image"src="../images/arduino_before">-->
