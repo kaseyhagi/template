@@ -40,21 +40,21 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
   <div class="column">
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
-        Before
+        Original
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. </p>
+    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
+</p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
-        After
+        Replication using Semantic UI
       </div>
       <img src="/images/arduino_after.JPG">
     </div>
   </div>
 </div>
 
-You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
 
 ## UI Frameworks for an Engineer
 
