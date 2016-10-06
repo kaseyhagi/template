@@ -24,13 +24,9 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
 
 <img class= "ui small floated circular image" src="../images/semantic_profile.png">
 For example, the image to the left is originally a square. To make this round, I just added the class "ui small circular image". With no additional CSS, the image is formatted to size small and appears circular.
-But wait, there's more. There's a ton of other ways Semantic UI will make your life easier. Tip #1: encapsulating the body of your HTML file in a class "ui container" will give the content margins so your content isn't squished up against the edges. It starts to immediately look presentable. 
+But wait, there's more. There's a ton of other ways Semantic UI will make your life easier. here's a tip: encapsulating the body of your HTML file in a class "ui container" will give the content margins so your text isn't squished up against the edges. It starts to immediately look presentable. 
 
-<img class="ui medium floated image" src="../images/history_before.JPG">
-<img class="ui medium floated image" src="../images/history_after.JPG">
-
-
-A fun way to exercise using frameworks is by picking a website and replicating it using Semantic UI. 
+A fun way frameworks exercises is is to pick a website and replicate it using Semantic UI. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and ofted a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
 ## UI Frameworks for an Engineer
 SOFFTWARE ENGINEERING BENEFITS:;
 - BE ABLE TO QUICKLY DEVELOP BEAUTIFUL WEB APPLICATIONS 
