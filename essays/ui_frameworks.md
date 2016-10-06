@@ -41,6 +41,7 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
+    <p>The before photo is modified a little to include the footer at the bottom of the page.</p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
         After
