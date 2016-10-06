@@ -34,7 +34,7 @@ Below are examples of some elements or views that can be done using Semantic UI.
 
 <img class="ui fluid image" src="../images/semantic.JPG">
 
-<input type="text">
+<input type="text"><button type="button">CLICK</button>
 
 A fun frameworks exercises is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and often a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
 <!--<img class="ui medium floated image"src="../images/arduino_before">-->
