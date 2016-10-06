@@ -26,7 +26,7 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
 For example, the image to the left is originally a square. To make this round, I just added the class "ui small circular image". With no additional CSS, the image is formatted to size small and appears circular.
 But wait, there's more. There's a ton of other ways Semantic UI will make your life easier. Tip #1: encapsulating the body of your HTML file in a class "ui container" will give the content margins so your content isn't squished up against the edges. It starts to immediately look presentable. 
 
-<img class="ui medium floated image" src="../images/history_before.jpg">
+<img class="ui medium floated image" src="../images/history_before.JPG">
 <img class="ui medium floated image" src="../images/history_after.JPG">
 
 
