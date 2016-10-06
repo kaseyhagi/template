@@ -18,7 +18,9 @@ WHY DO WE USE THEM?
 WHY NOT USE RAW HTML & CSS?
 -IT IS A PAIN
 -SEMANTIC UI MAKES THINGS EASY AND PRETTY
+
 ## Semantic UI
+
 Semantic UI has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. 
 
 
@@ -29,7 +31,10 @@ But wait, there's more. There's a ton of other ways Semantic UI will make your l
 
 A fun way frameworks exercises is is to pick a website and replicate it using Semantic UI. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and ofted a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
 
+
 ## UI Frameworks for an Engineer
+
+
 SOFFTWARE ENGINEERING BENEFITS:;
 - BE ABLE TO QUICKLY DEVELOP BEAUTIFUL WEB APPLICATIONS 
 As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed quite an improvement in productivity when using Semantic UI.
