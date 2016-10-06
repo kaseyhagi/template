@@ -8,8 +8,9 @@ labels:
   - Learning
   - UI Frameworks
 ---
+## User Interface
 
-<img class="ui medium centered rounded image" src="../images/ui.png">
+<img class="ui medium right floated rounded image" src="../images/ui.png">
 
 User interface is one of the most important things when developing Web applications. Today, the internet is accessed from all types of devices, not just the desktop computer. We have tablets and laptops and smartphones, but we need our websites to look nice and be formatted to fit the screen and still function on smaller devices. Frameworks make it possible to make web applications that will work on all types of screens. Frameworks allow you to design a layout without having to make specifications for different devices. Semantic UI is one of the frameworks available to use. With Semantic UI implementing the UI is much less painful and much nicer to look at. 
 
