@@ -11,16 +11,16 @@ labels:
 
 <img class="ui medium centered rounded image" src="../images/ui.png">
 
-User interface is one of the most important things when developing Web applications. Frameworks make it possible to make web applications that will work on all types of screens, from desktops to smart phones or tablets. Using frameworks adjust the web application to the size of the screen. Frameworks allow you to design a layout without having to make specifications for different devices.
-Semantic UI makes implementing the UI much less painless and much nicer to look at. 
+User interface is one of the most important things when developing Web applications. Today, the internet is accessed from all types of devices, not just the desktop computer. We have tablets and laptops and smartphones, but we need our websites to look nice and be formatted to fit the screen and still function on smaller devices. Frameworks make it possible to make web applications that will work on all types of screens. Frameworks allow you to design a layout without having to make specifications for different devices. Semantic UI is one of the frameworks available to use. With Semantic UI implementing the UI is much less painful and much nicer to look at. 
 
-<input type="text" placeholder="Search..."><button type="button">Search</button>
+<input type="text" placeholder="Search..."><button type="button">Search
+<br>
 <div class="ui action input">
   <input type="text" placeholder="Search...">
   <button class="ui button">Search</button>
 </div>
  
-Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI. With Semantic UI, using about just as much HTML would bring your site into this century.
+Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI, which has all the styles defined for you. With Semantic UI, using about just as much HTML would bring your site into this century.
 
 <!--WHAT ARE UI FRAMEWORKS? -->
 <!--WHY DO WE USE THEM? -->
@@ -30,7 +30,7 @@ Here are two examples of a search bar. Can you tell which is made with Semantic 
 
 ## Semantic UI
 
-<a href="http://semantic-ui.com/">Semantic UI</a> has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. Below are examples of some elements or views that can be done using Semantic UI. Notice the style and how they looks as if they were developed in 2016 and not 1995.
+<a href="http://semantic-ui.com/">Semantic UI</a> has tons of libraries that do most of the formatting for you. It isn't too hard to start using, since the framework uses "human-friendly" HTML. Below are examples of some elements or views that can be done using Semantic UI. Notice the style and how they looks as if they were developed in 2016 and not 1995. This framework also allows for customization, making it simple to put your own personal touch to it. 
 
 <img class="ui fluid image" src="../images/semantic.JPG">
 
@@ -44,7 +44,7 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
+    <p>The original photo is modified a little to include the footer at the bottom of the page in the screenshot. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
 </p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
