@@ -36,7 +36,7 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
 <div class="ui two column grid">
   <div class="column">
     <div class="ui fluid image">
-      <div class="ui black ribbon label">
+      <div class="ui red right ribbon label">
         Before
       </div>
       <img src="/images/arduino_before.JPG">
@@ -44,10 +44,10 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
   </div>
   <div class="column">
     <div class="ui fluid image">
-      <div class="ui blue ribbon label">
+      <div class="ui red right ribbon label">
         After
       </div>
-      <img src="/images/arduinno_after.JPG">
+      <img src="/images/arduino_after.JPG">
     </div>
   </div>
 </div>
