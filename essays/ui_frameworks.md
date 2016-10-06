@@ -59,4 +59,4 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
 
 ## UI Frameworks for an Engineer
 
-As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed that trying to design a simple website (before knowing about Semantic UI) involved spending many head scratching hours just to get a 1992 style website. There was quite an improvement in productivity when I started using Semantic UI. 
+As an aspiring software engineer, I do not want to spend hours on creating an easy to look at, functional user interface. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed that trying to design a simple website (before knowing about Semantic UI) involved spending many head scratching hours just to get a 1992 style website. There was quite an improvement in productivity when I started using Semantic UI. 
