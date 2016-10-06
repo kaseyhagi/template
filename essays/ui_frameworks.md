@@ -33,21 +33,22 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
 <!--<img class="ui medium floated image"src="../images/arduino_before">-->
 <!--<img class="ui medium floated image"src="../images/arduino_after">-->
 
-
+<div class="ui one column grid">
+  <div class="column">
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
         Before
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
         After
       </div>
       <img src="/images/arduino_after.JPG">
     </div>
-
+  </div>
+</div>
 
 ## UI Frameworks for an Engineer
 
