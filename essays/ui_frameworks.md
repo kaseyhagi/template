@@ -12,7 +12,7 @@ labels:
 
 <img class="ui medium centered rounded image" src="../images/ui.png">
 
-User interface is one of the most important things when developing Web applications. Today, the internet is accessed from all types of devices, not just the desktop computer. We have tablets and laptops and smartphones, but we need our websites to look nice and be formatted to fit the screen and still function on smaller devices. Frameworks make it possible to make web applications that will work on all types of screens. Frameworks allow you to design a layout without having to make specifications for different devices. Semantic UI is one of the frameworks available to use. With Semantic UI implementing the UI is much less painful and much nicer to look at. 
+User interface is one of the most important things when developing Web applications. Today, the internet is accessed from all types of devices, not just the desktop computer. We have tablets and laptops and smartphones, but we need our websites to look nice and be formatted to fit the screen and still function on smaller devices. Frameworks make it possible to make web applications that will work on all types of screens. Frameworks allow you to design a layout without having to redesign for different devices. Semantic UI is one of the frameworks available to use. With Semantic UI, implementing the UI is much less painful and much nicer to look at. 
 
 <input type="text" placeholder="Search..."><button type="button">Search
 <br>
@@ -21,7 +21,7 @@ User interface is one of the most important things when developing Web applicati
   <button class="ui button">Search</button>
 </div>
  
-Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI, which has all the styles defined for you. With Semantic UI, using about just as much HTML could bring your site into this century.
+Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? It's little touches like the styles of buttons and boxes that really make an impression. We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI, which has all the styles defined for you. With Semantic UI, using about just as much HTML could bring your site into this century.
 
 <!--WHAT ARE UI FRAMEWORKS? -->
 <!--WHY DO WE USE THEM? -->
