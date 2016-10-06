@@ -15,7 +15,6 @@ User interface is one of the most important things when developing Web applicati
 Semantic UI makes implementing the UI much less painless and much nicer to look at. 
 
 <input type="text" placeholder="Search..."><button type="button">Search</button>
-
 <div class="ui action input">
   <input type="text" placeholder="Search...">
   <button class="ui button">Search</button>
@@ -36,8 +35,6 @@ Here are two examples of a search bar. Can you tell which is made with Semantic 
 <img class="ui fluid image" src="../images/semantic.JPG">
 
 A fun frameworks exercise is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. I gained a lot of experience from creating things that all "real" websites have, like some menu or title bar at the top and a footer at the bottom of the page. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage. You don't have to recreate the entire site, just choose some portions to get started. I decided to recreate the menu bar, the footer, and a few of the body elements. 
-<!--<img class="ui medium floated image"src="../images/arduino_before">-->
-<!--<img class="ui medium floated image"src="../images/arduino_after">-->
 
 <div class="ui one column grid">
   <div class="column">
@@ -47,7 +44,7 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. </p>
+    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. Doing this exercise could also give you some neat design ideas for creating sites of your own. </p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
         After
@@ -57,12 +54,8 @@ A fun frameworks exercise is to use Semantic UI to replicate a website of your c
   </div>
 </div>
 
-
-If I were told to replicate the same sight using only raw HTML and CSS in the same amount of time, I'd say impossible! 
+You can take a look at my HTML and CSS for my recreation of Arduino's homepage <a href="https://github.com/kaseyhagi/arduino">here</a>.
 
 ## UI Frameworks for an Engineer
 
-
-<!--SOFFTWARE ENGINEERING BENEFITS:;-->
-<!--- BE ABLE TO QUICKLY DEVELOP BEAUTIFUL WEB APPLICATIONS -->
-As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed quite an improvement in productivity when using Semantic UI. 
+As an aspiring software engineer, I do not want to spend hours on the user interface, though I would like it to look nice. Doing this with raw HTML and CSS is not an easy task to accomplish. I've noticed that trying to design a simple website (before knowing about Semantic UI) involved spending many head scratching hours just to get a 1992 style website. There was quite an improvement in productivity when I started using Semantic UI. 
