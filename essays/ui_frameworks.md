@@ -29,7 +29,7 @@ Semantic UI has tons of libraries that do most of the formatting for you. It isn
 For example, the image to the left is originally a square. To make this round, I just added the class "ui small circular image". With no additional CSS, the image is formatted to size small and appears circular.
 But wait, there's more. There's a ton of other ways Semantic UI will make your life easier. I personally found it terribly painful to design a layout in raw HTML/CSS. However using Semantic UI, 
 
-A fun way frameworks exercises is is to pick a website and replicate it using Semantic UI. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and ofted a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
+A fun frameworks exercises is to use Semantic UI to replicate a website of your choosing. This was a challenging, yet rewarding exercise for me. You gain experience creating things that all "real" websites have, like some title or menu bar at the top with dropdown options, and often a block-like body with some content. Take a look at my example of replicating <a href="https://www.arduino.cc/"> Arduino's</a> homepage.
 <!--<img class="ui medium floated image"src="../images/arduino_before">-->
 <!--<img class="ui medium floated image"src="../images/arduino_after">-->
 
@@ -41,7 +41,7 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
       </div>
       <img src="/images/arduino_before.JPG">
     </div>
-    <p>The before photo is modified a little to include the footer at the bottom of the page.</p>
+    <p>The before photo is modified a little to include the footer at the bottom of the page. There are some minor differences in my version compared to the original but it's pretty close. </p>
     <div class="ui fluid image">
       <div class="ui red right ribbon label">
         After
@@ -51,6 +51,8 @@ A fun way frameworks exercises is is to pick a website and replicate it using Se
   </div>
 </div>
 
+
+If I were told to replicate the same sight using only raw HTML and CSS in the same amount of time, I'd say impossible!
 ## UI Frameworks for an Engineer
 
 
