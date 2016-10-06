@@ -16,12 +16,12 @@ Semantic UI makes implementing the UI much less painless and much nicer to look 
 
 <input type="text" placeholder="Search..."><button type="button">Search</button>
 
-Here's your basic HTML input with a button. Looks quite outdated, doesn't it. We need to keep up with the rest of the web, and that doesn't mean adding modifications to your stylesheet. It means using a framework like Semantic UI. Using about just as much HTML would bring your site into this century.
 <div class="ui action input">
   <input type="text" placeholder="Search...">
   <button class="ui button">Search</button>
 </div>
-
+ 
+Here are two examples of a search bar. Can you tell which is made with Semantic UI and which is with raw HTML? Of course you can. The first looks quite outdated, doesn't it? We need to keep up with the rest of the web, and that doesn't mean adding multiple modifications to your stylesheet. It means using a framework like Semantic UI. With Semantic UI, using about just as much HTML would bring your site into this century.
 
 <!--WHAT ARE UI FRAMEWORKS? -->
 <!--WHY DO WE USE THEM? -->
@@ -58,7 +58,7 @@ A fun frameworks exercises is to use Semantic UI to replicate a website of your 
 </div>
 
 
-If I were told to replicate the same sight using only raw HTML and CSS in the same amount of time, I'd say impossible! Before using Semantic UI, the web applications I designed looked like they belonged in the '90's.
+If I were told to replicate the same sight using only raw HTML and CSS in the same amount of time, I'd say impossible! 
 
 ## UI Frameworks for an Engineer
 
