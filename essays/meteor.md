@@ -17,7 +17,7 @@ Yes, meteor takes time. When you're loading up your project, it may take a few m
 Using this platform is a quickstart way into the web application development business. Meteor allows for quick and easy prototyping for web apps.
 
 ## Out of this world  
-<img class="ui right floated image" src="../images/meteor.jpeg">
+<img class="ui image" src="../images/meteor.jpg">
 
 Hence the name of this platform, Meteor is out of this world. I have no idea what's going on behind the curtains. I have no idea how the Web actually works and I'm kind of glad that Meteor handles all of this stuff for me. After going through the processes and following the template, I have a basic grasp of meteor. Meteor does some pretty cool things, like automatically updating your changes to the app. I liked that I could immediately see the changes I've made without having to type a command. Since I had no previous knowledge of how web-based applications worked, Meteor taught me a little bit of it along the way.
 
