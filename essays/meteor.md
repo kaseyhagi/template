@@ -8,6 +8,8 @@ labels:
   - Learning
   - Meteor
 ---
+<img class="ui fluid image" src="../images/meteorlogo.png">
+
 
 At first, Meteor may seem like the enemy. I procrastinated so hard the past two weeks, trying to avoid having to deal with Meteor. In the beginning, most of us had to jump through hoops just to get meteor to work. If you're just starting with Meteor, don't be discouraged if it doesn't work right out of the box. Just go with it, find out why it doesn't work --actually read the errors! This process really builds character, it tests your patience and your dedication. 
 
