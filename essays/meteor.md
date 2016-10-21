@@ -16,7 +16,7 @@ At first, Meteor may seem like the enemy. I procrastinated so hard the past two 
 ## Give it a chance
 <img class="ui right floated image" src="../images/skeleton.jpg">
 
-Yes, meteor takes time. When you're loading up your project, it may take a few minutes for the page to build but just be patient. You won't regret it either. Learning Meteor was my first experience in the realm of web applications. I didn't think developing web applications could be so easy! The meteor example <a href="http://ics-software-engineering.github.io/meteor-application-template/"> template </a> was an excellent guide in the learning process. I started with building pages based off the template pages and slowly began to understand the way meteor does things. 
+Yes, meteor takes time. When you're loading up your project, it may take a few minutes for the page to build. And you may feel like something's wrong, like it shouldn't be this slow. But no, it is slow and it's normal. Be patient. You won't regret it either. Learning Meteor was my first experience in the realm of web applications. I didn't think developing web applications could be so easy! The meteor example <a href="http://ics-software-engineering.github.io/meteor-application-template/"> template </a> was an excellent guide in the learning process. I started with building pages based off the template pages and slowly began to understand the way meteor does things. 
 Using this platform is a quickstart way into the web application development business. Meteor allows for quick and easy prototyping for web apps.
 
 ## Out of this world  
