@@ -2,17 +2,30 @@
 layout: project
 type: project
 image: images/android1.JPG
-title: Android App 
+title: Shopping List App for Android 
 permalink: projects/androidapp
 date: 2016
 labels:
   - Java
   - eclipse
   - Android
-summary: An Android Application I deveopled in preparation for EE396.
+summary: An Android Application I deveopled for EE396.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/android1.JPG">
 
-This is a simple calculator implemented as an Android application, which I developed in preparation for my junior project, EE 396. The purpose of this project, was mainly to learn and become familiar with Android development and the Android development IDE, Android Studios. Using Android Studios, I developed my first Android app which I ran and tested on a virtual android device and eventually on an actual device. The simple calculator I created implemented all basic calculations such as addition, multiplication, subtraction, and division. I first designed the interface in XML, and added a View Group for each button and the text view that would display the calculations. Next, I implemented a click listener, which is what handles each button click. I then made a Java class, which would call the correct function for each operation upon button click. 
-Through this project, I learned a new programming language, Java, as well as XML, which handles the implementation of the UI. I had to read up on all the different types of layouts to find the layout most suitable for this project. One challenge I faced was trying to get the layout to look exactly the same on different devices with different screen sizes. I also learned about how to handle click listeners. One of the biggest challenges I faced was to make this application "unbreakable". I felt it was important to have an app that did not crash when unexpected buttons were clicked or operations such as dividing by zero were entered. This coming semester, I will use these new skills to develop another app which will be utilizing google maps and location services. 
+## What is it? 
+This app is a shopping list app for Android. Users can make a shopping list on their Android devices. But wait, there's more. Users can specify their shopping list items to specific locations or stores with Google Maps. We decided on making this app because it is something we could personally use. Have you ever gone to the store to get a couple things, but you end up getting distracted and walk out with 10 things that were not on the list? If you answered yes to that question then this app is for you! 
+
+<img class="ui medium image" src="../images/map1.JPG">
+
+## My Contributions
+My main contribution to this project was utilizing the Google Maps API in our app. We really wanted users to be able to see their location and their stores on a map, and for the users to be able to search for stores by name in their area. I implemented the search functionality, which allows users to type in a store name and search results in their area would show with the address, and they would also be able to view them on a map. 
+
+<img class="ui medium image" src="../images/search1.JPG">
+
+
+## Future Improvements
+My project partner and I both agreed that after this semester was over and the project course was "done", we'd like to finish the app and make it something we could put up on the app store. One main feature I'd like to add is notifications. These notifications will pop up when the user is at a location where they have items on their list. The notifications would remind the user of the items they listed to buy at that location. This will eliminate the forgetfulness and the distraction while shopping! Another improvement we'd like to make is aesthetics. We want our app to be something more fun to look at, because user experience is very important in apps. 
+
+Through this project, besides picking up another programming language (Java), I learned a lot about project management. This was a group project which required a lot of collaboration. One of the biggest challenges faced in this project was working on the same pieces of code together. We both had to get our hands dirty with Git to make this project cohesive. 
