@@ -12,17 +12,17 @@ labels:
 summary: An Android Application I deveopled for EE396.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/android1.JPG">
+<img class="ui medium rounded image" src="../images/shopping-list.JPG">
 
 ## What is it? 
 This app is a shopping list app for Android. Users can make a shopping list on their Android devices. But wait, there's more. Users can specify their shopping list items to specific locations or stores with Google Maps. We decided on making this app because it is something we could personally use. Have you ever gone to the store to get a couple things, but you end up getting distracted and walk out with 10 things that were not on the list? If you answered yes to that question then this app is for you! 
 
-<img class="ui medium image" src="../images/map1.JPG">
+<img class="ui medium  right floated image" src="../images/map1.JPG">
 
 ## My Contributions
 My main contribution to this project was utilizing the Google Maps API in our app. We really wanted users to be able to see their location and their stores on a map, and for the users to be able to search for stores by name in their area. I implemented the search functionality, which allows users to type in a store name and search results in their area would show with the address, and they would also be able to view them on a map. 
 
-<img class="ui medium image" src="../images/search1.JPG">
+<img class="ui medium  right floated image" src="../images/android1.JPG">
 
 
 ## Future Improvements
