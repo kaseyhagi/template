@@ -12,8 +12,6 @@ labels:
 summary: An Android Application I developed for EE396.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/shopping-list.JPG">
-
 <img class="ui medium  right floated image" src="../images/map1.JPG">
 
 ## What is it? 
