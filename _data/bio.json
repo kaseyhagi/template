@@ -30,7 +30,7 @@
   },
   "interests": [
     {
-      "name": "Software",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
@@ -40,7 +40,12 @@
       ]
     },
     {
-      "name": "Physics",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Big Data",
       "keywords": [
       ]
     }
@@ -52,14 +57,16 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "JavaScript",
+        "PHP"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "MacOS", "Windows",
         "Eclipse",
         "Android Studio"
         
@@ -69,11 +76,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2017)",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "3.7",
+      "gpa": "3.5",
       "courses": [
       ]
     },
