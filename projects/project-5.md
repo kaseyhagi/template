@@ -2,19 +2,19 @@
 layout: project
 type: project
 image: images/moarchow.JPG
-title: Moar Chow
-permalink: projects/moarchow
+title: Applications of Machine Learning to Feature Recognition on Satellite Imagery 
+permalink: projects/machinelearning
 date: 2016
 labels:
-  - JavaScript
-  - Meteor
-  - MongoDB
-summary: Find information on UH Manoa's food vendors all in one place. 
+  - Machine Learning
+  - Python
+  - Artificial Neural Networks
+summary: Find vessels in satellite images using machine learning algorithms. 
 ---
 
 <img class="ui medium image" src = "../images/moarchow.png">
 
-## What is Moar Chow? 
+## Objective
 
 Moar Chow is a web application tailored for hungry UH Manoa students. This app allows students to find information on all food vendors on campus including mobile food trucks. The users can view menus, operating hours, and details on each vendor. Users also can save vendors to their "Favorites", which will show up on their home page anytime they login and they can quickly find out if their favorite vendors are currenlty open. 
 
