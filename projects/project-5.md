@@ -13,7 +13,6 @@ labels:
 
 ---
 
-<img class="ui medium image" src = "../images/moarchow.png">
 
 ## Objective
 
