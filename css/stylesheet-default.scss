@@ -7,11 +7,15 @@
 // Don't edit this file.  Put your changes in stylesheet-customizations.scss
 
 // Default background color
+html {
+    height: 100%;
+}
 body {
-//   background-color: #f2f2f2;
-//   background: linear-gradient(#f9c1a7, #b9eaf7);
-  background: linear-gradient(#fcad97, #ffffff);
-  
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(#fcad97, #ffffff);
 }
 
 // Default menubar color
