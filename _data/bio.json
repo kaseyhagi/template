@@ -85,7 +85,7 @@
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "2015-12-19",
+      "endDate": "2017-12-19",
       "gpa": "3.55",
       "courses": ["Computer Data Structures and Algorithms", "Operating Systems",
        "Machine Learning", "Software Engineering", "Digital Systems and Computer Design", 
@@ -105,13 +105,22 @@
   ],
   "work":[
     {
-      "position": "Satellite Testbed Assistant",
-      "company":"Hawaii Space Flight Laboratory",
+      "position": "Po'okela Fellows Intern",
+      "company":"City and County of Honolulu, Department of Information Technology ",
       "website":"",
       "summary":"summary",
       "highlights":"highlights",
-      "startDate":"2015-09-01",
-      "endDate":"2015-12-20"
+      "startDate":"2017-01-01",
+      "endDate":"2017-6-20"
+    },
+    {
+      "position": "Intern - Satellite Testbed Assistant",
+      "company":"Hawaii Space Flight Laboratory",
+      "website":"https://www.hsfl.hawaii.edu/",
+      "summary":"summary",
+      "highlights":"highlights",
+      "startDate":"2017-05-01",
+      "endDate":"2017-12-20"
     }
   ],
   
