@@ -23,8 +23,7 @@
       {
         "network": "linkedin",
         "username": "kaseyhagi",
-        "url": "https://www.linkedin.com/in/kasey-hagi-839291124
-"
+        "url": "https://www.linkedin.com/in/kasey-hagi-839291124"
       }
     ]
   },
@@ -59,7 +58,14 @@
         "C++",
         "Java",
         "JavaScript",
-        "PHP"
+        "PHP",
+        "Python",
+        "HTML/CSS",
+        "MATLAB",
+        "Verilog",
+        "MongoDB",
+        "MySQL"
+
       ]
     },
     {
@@ -76,12 +82,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2017)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
-      "gpa": "3.5",
-      "courses": [
+      "endDate": "2015-12-19",
+      "gpa": "3.55",
+      "courses": ["Computer Data Structures and Algorithms", "Operating Systems",
+       "Machine Learning", "Software Engineering", "Digital Systems and Computer Design", 
+       "Circuit Design", "Microelectronic Circuits", "Digital Design"
       ]
     },
     {
@@ -93,6 +101,17 @@
       "gpa": "3.44",
       "courses": [
       ]
+    }
+  ],
+  "work":[
+    {
+      "position": "Satellite Testbed Assistant",
+      "company":"Hawaii Space Flight Laboratory",
+      "website":"",
+      "summary":"summary",
+      "highlights":"highlights",
+      "startDate":"2015-09-01",
+      "endDate":"2015-12-20"
     }
   ],
   
