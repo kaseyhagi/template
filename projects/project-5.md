@@ -12,7 +12,6 @@ labels:
 summary: Find vessels in satellite images using machine learning algorithms. 
 ---
 
-<img class="ui medium image" src = "../images/moarchow.png">
 
 ## Objective
 
