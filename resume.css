@@ -1,0 +1,51 @@
+body{
+    font-family:'Ubuntu Condensed', monospace; 
+}
+.nav_bar {
+    background-color: #f2f4f7;
+}
+.subheader {
+    font-family: 'Rajdhani', monospace;
+    font-size: 30px;
+}
+.tag {
+    border: 1px solid black;
+    display: inline-block;
+    text-align: right;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.project, .education, .job {
+    padding: 10px;
+}
+.project-title {
+    font-weight: 700;
+    color: #1e65ce;
+}
+.job-title {
+    font-weight: 700;
+    color: #3ba5a2;
+}
+.skills-sub {
+    font-weight: 700;
+    color: #3aa54e; 
+}
+#s1 {
+    background-image: url("images/bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 800px;
+
+}
+#intro {
+    background-color: azure;
+    opacity:0.78;
+    width: 500px;
+    padding: 50px;
+    font-size: 20px;
+    border-radius: 25px;
+    font-family:'Cutive Mono', monospace; 
+}

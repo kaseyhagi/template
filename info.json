@@ -1,0 +1,10 @@
+{
+    "intro": "Aloha! I'm Kasey Hagi, a Honolulu based software engineer",
+    "email":"kaseyhagi@gmail.com",
+    "phone":"(808)224-7801",
+    "skills":{
+        "languages":[ "Python", "C++"],
+        "tools": ["Github", "MongoDB"]
+    }
+    
+}
