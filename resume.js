@@ -109,12 +109,12 @@ function createEdu(e, div) {
     var eTitle = document.createElement('div');
     eTitle.innerHTML= '<span class="edu-school">'+e.school +'</span>';
     eTitle.innerHTML += ' - <span class="edu-city">'+e.city+'</span>';
-    eTitle.innerHTML += ' - <span class="edu-degree">'+e.degree+'</span>';
+    eTitle.innerHTML += ' <br><span class="edu-degree">'+e.degree+'</span>';
     
     div.appendChild(eTitle);
     var eDetail = document.createElement('div');
     eDetail.innerHTML = '<span class="edu-school">'+e.grad +'</span>';
-    eDetail.innerHTML+=  ' - <span class="edu-city">'+e.gpa+'</span>';
+    eDetail.innerHTML+=  ' GPA: <span class="edu-city">'+e.gpa+'</span>';
     
     div.appendChild(eDetail);
 }

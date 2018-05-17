@@ -49,3 +49,10 @@ body{
     border-radius: 25px;
     font-family:'Cutive Mono', monospace; 
 }
+.edu-degree {
+    font-weight: 700;
+    color: #1e65ce;
+}
+.edu-school , .job-company {
+    font-weight: 700;
+}
