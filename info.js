@@ -31,7 +31,7 @@ var info = {
             when: "Summer 2017",
             description: "GUI Data Plotting Tool for COSMOS",
             detail: "Developed a real-time data plotting tool for data gathered by COSMOS software agents with simplified user customizability and dynamic layout and formatting. Compliant with COSMOS framework and communication protocols. Used by engineers for satellite testbed operations.",
-            tags: ["C++", "Qt Creator"]
+            tags: ["C++", "Qt Creator", "COSMOS Project"]
         },
         {
             name: "Transpiler Project",
@@ -41,7 +41,7 @@ var info = {
             tags: ["C++"]
         },
         {
-            name: "Moar Chow",
+            name: "<a href='https://moarchow.github.io/'>Moar Chow</a>",
             when: "Fall 2016",
             description: "Web Application built on Meteor Framework",
             detail: "Worked closely with a team of student developers to design and implement a web application to provide information on all on-campus food vendors such as location, menu, operating hours.  Incorporated MongoDB to the web application to store vendor information as well as user input reviews and ratings. ",
@@ -63,7 +63,7 @@ var info = {
             company: "Hawaii Space Flight Laboratory",
             location: "Honolulu, HI",
             position: "Intern - Satellite Testbed Assistant ",
-            description: "Joined a team of engineers and researchers to develop an embedded software interface library for an ADCS unit for a 3U CubeSat platform under the COSMOS framework. ",
+            description: "Joined a team of engineers and researchers to develop an embedded software interface library for an ADCS unit for a 3U CubeSat platform under the <a href='https://www.hsfl.hawaii.edu/cosmos/' >COSMOS</a> framework. ",
             startDate: "May 2017",
             endDate: "December 2017",
             tags: ["COSMOS Project", "C++"]
@@ -76,7 +76,7 @@ var info = {
             description: "Worked with developers to produce inter-departmental web applications to facilitate operations. Designed and implemented web forms and surveys linked to MySQL databases. ",
             startDate: "January 2017",
             endDate: "June 2017",
-            tags: ["PHP", "Web Development", "MySQL"]
+            tags: ["PHP", "Web Development", "MySQL", "HTML/CSS", "jQuery"]
             
         }
         
